@@ -1,0 +1,33 @@
+
+.heading1
+{
+	color: blue;
+	font-size: 40px;
+	text-align: center;
+}
+
+.heading2
+{
+	color:red;
+	font-size: 20px;
+}
+
+.description
+{
+	color:Gunmetal;
+	font-size: 40px;
+	border-left-style: solid;
+	padding: 2cm 4cm 3cm 4cm;
+	background-color: yellow;
+}
+
+
+.image
+{
+	width: 200px;
+	position: relative;
+	left: 20px;
+}
+
+
+
